@@ -2,7 +2,7 @@
 # Hermes - Game streaming server with virtual display support
 
 pkgname=hermes-streaming
-pkgver=0.6.0
+pkgver=0.6.0.r3739.g4e1ae45d
 pkgrel=1
 pkgdesc="Self-hosted game streaming server with virtual display support"
 arch=('x86_64')
